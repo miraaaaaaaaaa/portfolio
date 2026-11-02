@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Materials used
+Imported the list of countries and their codes: https://flagpedia.net/download/api
+
+Imported the list of famous dishes from the r5espected country: https://worldpopulationreview.com/country-rankings/countries-national-dishes
+
