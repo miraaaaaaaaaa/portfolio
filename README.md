@@ -72,5 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Materials used
 Imported the list of countries and their codes: https://flagpedia.net/download/api
 
-Imported the list of famous dishes from the r5espected country: https://worldpopulationreview.com/country-rankings/countries-national-dishes
+Imported the list of famous dishes from the respected country: https://worldpopulationreview.com/country-rankings/countries-national-dishes
 
+Imported the list of nationals and their codes: https://www.kaggle.com/datasets/rambomind/countries-and-their-national-animals
+
+Imported the list of famouse people from their respected countries: https://api.api-ninjas.com/v1/celebrity
