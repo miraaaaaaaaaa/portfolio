@@ -1,4 +1,4 @@
-[
+export const animals = [
   {
     "flagCode": "AF",
     "country": "Afghanistan",

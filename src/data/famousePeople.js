@@ -1,4 +1,4 @@
-[
+export const famousPeople = [
   {
     "flagCode": "AF",
     "country": "Afghanistan",
