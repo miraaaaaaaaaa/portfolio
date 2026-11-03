@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from "react";
-import "./wordScramble.css";
+import "./css/wordScramble.css";
 
 // UTC for the daily word
 function todayKey() {

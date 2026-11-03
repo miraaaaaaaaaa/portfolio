@@ -17,3 +17,5 @@ Imported the list of famous people from their respected countries: https://api.a
 Imported the list of the countries' and their GDPs: https://datahub.io/core/gdp (It is important to note that this only has certain years and are not up-to-date I might come back and fine more resources for it to show current more accurate GDP, but for now I will be using older years documented GDP)
 
 This github contains a ton of important information about their respective countries: https://mledoze.github.io/countries/
+
+Imported the list of national flowers from their respected countries: https://nationalthings.com/list-of-national-flowers-by-countries/

@@ -1,0 +1,148 @@
+
+.country-game {
+    max-width: 550px;
+    margin: 40px auto;
+    padding: 25px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #222;
+}
+
+.country-modes {
+    display: flex;
+    gap: 10px;
+    margin: 25px 0;
+}
+
+.country-game button {
+    padding: 12px 18px;
+    background: #555;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.country-modes button {
+    flex: 1;
+}
+
+.country-modes .selected {
+    background: #538d4e;
+}
+
+.country-stats {
+    display: flex;
+    justify-content: space-around;
+    margin: 25px 0;
+    font-weight: bold;
+}
+
+.country-progress {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 25px;
+}
+
+.country-progress div {
+    flex: 1;
+    height: 8px;
+    background: #ddd;
+    border-radius: 5px;
+}
+
+.country-progress .active {
+    background: #538d4e;
+}
+
+.country-clues {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.country-clue {
+    padding: 20px;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    text-align: left;
+}
+
+.country-clue-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: 14px;
+    color: #666;
+}
+
+.country-clue p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+.country-controls {
+    margin-top: 25px;
+}
+
+.country-controls form {
+    display: flex;
+    gap: 10px;
+}
+
+.country-controls select {
+    flex: 1;
+    min-width: 0;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.next-clue {
+    margin-top: 12px;
+    width: 100%;
+}
+
+.country-flag {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.country-result {
+    background: #eaf5e8;
+    padding: 25px;
+    border-radius: 12px;
+    margin-top: 25px;
+}
+
+.country-message {
+    margin: 18px 0;
+    font-weight: bold;
+}
+
+.country-guesses {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.country-guesses p {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+@media (max-width: 480px) {
+    .country-game {
+        padding: 16px;
+        margin: 15px auto;
+    }
+
+    .country-controls form {
+        flex-direction: column;
+    }
+}
